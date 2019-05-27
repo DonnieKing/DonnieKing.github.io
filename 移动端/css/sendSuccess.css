@@ -99,28 +99,29 @@ a{
 /*foutteen*/
 .swipper-fourteen{
     /*display: block;*/
-    margin: 0.57rem auto 0;
+    margin: 1.8rem auto 0;
     width: 6.57rem;
     height: 1.1rem;
-    display: flex;
+    /*display: flex;*/
     /*border: 0.01rem solid red;*/
-    position: absolute;
-    bottom: 0.5rem;
-    left: 0.46rem;
+    /*position: absolute;*/
+    /*bottom: 0.5rem;*/
+    /*left: 0.46rem;*/
     font-size: 0.26rem;
     display: flex;
-    line-height: 1.1rem;
-    padding-bottom: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    /*line-height: 1.1rem;*/
+    /*padding-bottom: 0.5rem;*/
 }
 .swipper-fourteen div{
     /*border: 0.01rem solid red;*/
-    margin:0.3rem auto 0rem;
+    /*margin:0.4rem auto 0rem;*/
 
 }
 .swipper-fourteen div a{
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    cursor: pointer;
     color: #576b95;
     /*font-weight: 700;*/
 
